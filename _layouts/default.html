@@ -1,0 +1,21 @@
+<!doctype html>
+
+<html>
+  {% include head.html %}
+  <body>
+    <nav class="main-nav">
+      {% if page.lang == "zh" %}
+      <a href="/zh">MPH 行为模型</a>
+      {% else %}
+      <a href="/">MPH Behavior Model</a>
+      {% endif %}
+    </nav>
+    <div class="container">
+      {{ content }}
+    </div>
+    <hr>
+    <footer class="footer">
+      <p class="author"><a href="/author">@Will Deng</a></p>
+    </footer>
+  </body>
+</html>

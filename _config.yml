@@ -1,0 +1,19 @@
+title: MPH Behavioral Model                         # title of the site
+description: Use the MPH model to manage your life  # description of the site
+
+# Default layout
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+
+# Link
+
+app: https://apps.apple.com/app/id6464384641
+twitter: https://twitter.com/habitwind
+zhihu: https://www.zhihu.com/people/habitist
+douban: https://www.douban.com/people/habitism
+xhs: https://www.xiaohongshu.com/user/profile/65bb0d64000000000e025281
+gzh: https://mp.weixin.qq.com/s/BHSw2PwLVnQ3_3NtpOpu8g
