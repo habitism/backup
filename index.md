@@ -25,4 +25,4 @@ The Path is the breakdown of the goal, used to prove its feasibility. Once you h
 
 During the process of achieving a goal, you will encounter various setbacks. Habit is repeated training to overcome these setbacks. Each practice will enhance your ability, and your confidence will increase correspondingly until you overcome a difficult step.
 
-> MPH app download: [Habitism]({{ site.app }})
+> Next section: [Motivation](./mph/motivation)
